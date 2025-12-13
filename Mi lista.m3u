@@ -1056,87 +1056,87 @@ https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title=" TELEVISIN  INTERNACIONAL", TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title="TELEVISIÓN  INTERNACIONAL", TELEMUNDO INTERNACIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title=" TELEVISIN  INTERNACIONAL", TELEMUNDO PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title="TELEVISIÓN  INTERNACIONAL", TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title=" TELEVISIN  INTERNACIONAL", TELEMUNDO TX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title="TELEVISIÓN  INTERNACIONAL", TELEMUNDO TX
 https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951226
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title=" TELEVISIN  INTERNACIONAL", TELEMUNDO FL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title="TELEVISIÓN  INTERNACIONAL", TELEMUNDO FL
 https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951227
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title=" TELEVISIN  INTERNACIONAL", TELEMUNDO NE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png" group-title="TELEVISIÓN  INTERNACIONAL", TELEMUNDO NE
 https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951228
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title=" TELEVISIN  INTERNACIONAL", AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="TELEVISIÓN  INTERNACIONAL", AZTECA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Azteca_Uno_2017.svg/640px-Azteca_Uno_2017.svg.png" group-title=" TELEVISIN  INTERNACIONAL", AZTECA UNO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Azteca_Uno_2017.svg/640px-Azteca_Uno_2017.svg.png" group-title="TELEVISIÓN  INTERNACIONAL", AZTECA UNO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png" group-title=" TELEVISIN  INTERNACIONAL", BBC World News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/2048px-BBC_World_News_2019.svg.png" group-title="TELEVISIÓN  INTERNACIONAL", BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
 https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_C/BBC_World_News.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9XF19XxVW24Uu2JPdempmklqooXULi8jkA&s" group-title=" TELEVISIN  INTERNACIONAL", Bloomberg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9XF19XxVW24Uu2JPdempmklqooXULi8jkA&s" group-title="TELEVISIÓN  INTERNACIONAL", Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e50891cdc64452aae20d049727f2f3f:551871ba1dc6a95597ec0cb82eb3b2a4
 https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_C/Bloomberg.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ganzGYBFGY6WN-kYwl7BpRdEVYl3mmEOng&s" group-title=" TELEVISIN  INTERNACIONAL", RAI ITALIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ganzGYBFGY6WN-kYwl7BpRdEVYl3mmEOng&s" group-title="TELEVISIÓN  INTERNACIONAL", RAI ITALIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
 https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_C/RAI.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1867px-TeleSUR-Logo.svg.png" group-title=" TELEVISIN  INTERNACIONAL", TELESUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1867px-TeleSUR-Logo.svg.png" group-title="TELEVISIÓN  INTERNACIONAL", TELESUR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5235d8ee29f14ce6b26ea5d828aee77a:6bf6bd339e3098babc2ab0b984cd2376
 https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_C/Telesur.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" group-title=" TELEVISIN  INTERNACIONAL", TV CHILE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" group-title="TELEVISIÓN  INTERNACIONAL", TV CHILE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m6dKvL5/antena3.png" group-title=" TELEVISIN  INTERNACIONAL", ANTENA 3 INT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m6dKvL5/antena3.png" group-title="TELEVISIÓN  INTERNACIONAL", ANTENA 3 INT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
 https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd
 
 
 
-#EXTINF:-1 tvg-logo="http://78.47.174.211/logos/cnninternacional.png" group-title=" TELEVISIN  INTERNACIONAL", CNN
+#EXTINF:-1 tvg-logo="http://78.47.174.211/logos/cnninternacional.png" group-title="TELEVISIÓN  INTERNACIONAL", CNN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f24708ad1184ee3a04b650941f9894b:e5bc7c5ff392119423dbf1c023a7b21c
 https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc_C/CNN_Internacional.mpd
 
-#EXTINF:-1 tvg-logo="http://78.47.174.211/logos/foxnews.png" group-title=" TELEVISIN  INTERNACIONAL", FOX NEWS
+#EXTINF:-1 tvg-logo="http://78.47.174.211/logos/foxnews.png" group-title="TELEVISIÓN  INTERNACIONAL", FOX NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
 https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc_C/Fox_News.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J2r5j55/LiveNOW.png" group-title=" TELEVISIN  INTERNACIONAL", LIVENOW FROM FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J2r5j55/LiveNOW.png" group-title="TELEVISIÓN  INTERNACIONAL", LIVENOW FROM FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6w69CWc/arirang.png" group-title=" TELEVISIN  INTERNACIONAL", ARIRANG TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6w69CWc/arirang.png" group-title="TELEVISIÓN  INTERNACIONAL", ARIRANG TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls10/arirang_tv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png" group-title=" TELEVISIN  INTERNACIONAL", DW
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png" group-title="TELEVISIÓN  INTERNACIONAL", DW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e21fc12c6ee185fbc90a052b05026be9:0f96fd52903707aac0b42853a043ffd0
 https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc_C/DW.mpd
