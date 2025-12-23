@@ -644,7 +644,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_C/Mega_TV.mpd
 #KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd
+https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/718/CH_LOGO/60/40/0/0/358638080777.png" group-title=" PACK PREMIUM UNIVERSAL Y HBO", STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1332,7 +1332,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_C/Canal4_URU.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_C/Canal12URU.mpd
-
 
 
 
