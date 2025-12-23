@@ -129,20 +129,10 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/2560px-I.Sat_logo.svg.png" group-title=" CINE Y SERIES", ISAT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db764164934a48749a7a01bd015694f3:512f3c8869af45e6e5dd1525b6a77867
-https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_C/ISAT.mpd
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest/smart/width/386/height/259?cb=20200629150117&path-prefix=es" group-title=" CINE Y SERIES", A3SERIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
 https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd
-
-#EXTINF:-1 tvg-logo="https://www.logo-designer.co/storage/2017/05/2017-syfy-new-logo-design.png" group-title=" CINE Y SERIES", SYFY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cd99cbb466c42e5b33e7a2ef7e2c7df:18d9faccdaf2d15807d0a3f713e8b2a4
-https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_C/SyFy.mpd
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title=" CINE Y SERIES", COMEDY CENTRAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
