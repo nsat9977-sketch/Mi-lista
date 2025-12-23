@@ -639,7 +639,7 @@ https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=80196dfcb7852e2b5e1165b3b17030e1:58face97c908502f17549eb62459bd80
 https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_C/Mega_TV.mpd
 
-#EXTINF:-1 tvg-name="HEI" tvg-logo="https://i.postimg.cc/fLShcZf6/hei.png" group-title="🇵🇾 PARAGUAY",HEI
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/fLShcZf6/hei.png" group-title="🇵🇾 PARAGUAY",HEI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar
