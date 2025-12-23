@@ -293,35 +293,11 @@ https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_C/MTV00.mpd
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
 https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.thematv.com/images/channels/vivaldi.png" group-title=" MUSICA", VIVALDI TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nCkKKQ5/stingray-classica.jpg" group-title=" MUSICA", STINGRAY CLASSICA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ySxjmnL/teleritmo.png" group-title=" MUSICA", TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5Y4C401/telehit.png" group-title=" MUSICA", TELEHIT
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4243Nf/Telehit-M-sica.png" group-title=" MUSICA", TELEHIT MUSICA
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hg3bxH0/do-download.png" group-title=" MUSICA", TELEHIT MUSICA PLUS
-https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0D7TMmZ/Bandamax.png" group-title=" MUSICA", BANDAMAX
-https://archive.org/download/3_20231204_20231204_1810/bandama.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PX0j9/freetv-banda-1080x1080-02092024.jpg" group-title=" MUSICA", MMC
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzMrH36/freetv-hits-1080x1080-02092024.jpg" group-title=" MUSICA", FLASH
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j5pLJYG/flou-caribe-o.png" group-title=" MUSICA", FLOU CARIBEO
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribedistro-distrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KW7fckh/la-bocina-latina.png" group-title=" MUSICA", LA BOCINA LATINA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
