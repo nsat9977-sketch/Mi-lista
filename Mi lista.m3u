@@ -631,16 +631,6 @@ https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_C/TELEFUTURO
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_C/RPC_C4.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4LJHDLxxHgJWKg5PmE1NMSEnvZdSVPHRFQ&s" group-title=" PARAGUAY", UNICANAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a3729cfd60f24f7e1266bee5eca02c:cb9ed028af40654e1aa43934ee58db58
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_C/UNICANAL_C4.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg" group-title=" PARAGUAY", CANAL PRO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8df0f1a1e05e9c6a438e23a87c9d06ea:5df74d374a2a8a871463e7c438fa3ba7
-https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_C/Canal_PRO.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9hqVmzy/descarga.png" group-title=" PARAGUAY", Union Tv
 https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
