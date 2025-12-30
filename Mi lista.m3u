@@ -1227,6 +1227,23 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_C/Canal4_URU.mp
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_C/Canal12URU.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="PlayboyTVLatinAmerica.us.uy" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1", Playboy TV (18+)
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_C/Playboy.mpd?|referer=https://web.app.flow.com.py/|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
+#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1001" tvg-id="Sextreme.br.uy" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg", Sextreme (18+)
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd?|referer=https://web.app.flow.com.py/|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+#EXTINF:-1 group-title="Adultos" adult=1 ch-number="1002" tvg-id="Venus.ar.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1", Venus (18+)
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd?|referer=https://web.app.flow.com.py/|origin=https://web.app.flow.com.py
 
 
 
