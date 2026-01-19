@@ -540,6 +540,42 @@ https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_C/Mega_TV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd
 
+#EXTINF:0 CUID="1336" tvg-name="GEN PY" tvg-logo="https://logo.m3uassets.com/gen.png" group-title="🇵🇾 PARAGUAY 2",GEN PY
+http://181.78.27.128:12543/play/a00a/index.m3u8
+
+#EXTINF:0 CUID="1337" tvg-name="PARAGUAY TV" tvg-logo="https://logo.m3uassets.com/tv.png" group-title="🇵🇾 PARAGUAY 2",PARAGUAY TV
+http://181.78.27.128:12543/play/a039/index.m3u8
+
+#EXTINF:0 CUID="1338" tvg-name="Telefuturo IPTV" tvg-logo="https://logo.m3uassets.com/telefuturo.png" group-title="🇵🇾 PARAGUAY 2",Telefuturo IPTV
+http://181.78.27.128:12543/play/a016/index.m3u8
+
+#EXTINF:0 CUID="1339" tvg-name="LA TELE PY" tvg-logo="https://logo.m3uassets.com/latele.png" group-title="🇵🇾 PARAGUAY 2",LA TELE PY
+http://181.78.27.128:12543/play/a017/index.m3u8
+
+#EXTINF:0 CUID="1340" tvg-name="UNICANAL PY" tvg-logo="https://logo.m3uassets.com/unicanal.png" group-title="🇵🇾 PARAGUAY 2",UNICANAL PY
+http://181.78.27.128:12543/play/a04p/index.m3u8
+
+#EXTINF:0 CUID="1341" tvg-name="SNT" tvg-logo="https://logo.m3uassets.com/snt.png" group-title="🇵🇾 PARAGUAY 2",SNT
+http://181.78.27.128:12543/play/a03e/index.m3u8
+
+#EXTINF:0 CUID="1342" tvg-name="TRECE PY" tvg-logo="https://logo.m3uassets.com/trece.png" group-title="🇵🇾 PARAGUAY 2",TRECE PY
+http://181.78.27.128:12543/play/a04l/index.m3u8
+
+#EXTINF:0 CUID="1343" tvg-name="NPY IPTV" group-title="🇵🇾 PARAGUAY 2",NPY IPTV
+http://181.78.27.128:12543/play/a018/index.m3u8
+
+#EXTINF:0 CUID="1344" tvg-name="PARAVISION" tvg-logo="https://logo.m3uassets.com/paravision.png" group-title="🇵🇾 PARAGUAY 2",PARAVISION
+http://181.78.27.128:12543/play/a038/index.m3u8
+
+#EXTINF:0 CUID="1345" tvg-name="SUR TV" tvg-logo="https://logo.m3uassets.com/surtv.png" group-title="🇵🇾 PARAGUAY 2",SUR TV
+http://181.78.27.128:12543/play/a03g/index.m3u8
+
+#EXTINF:0 CUID="1346" tvg-name="ROCK AND POP PY" group-title="🇵🇾 PARAGUAY 2",ROCK AND POP PY
+http://181.78.27.128:12543/play/a058/index.m3u8
+
+#EXTINF:0 CUID="1244" tvg-name="C9N" tvg-logo="https://logo.m3uassets.com/c9n.png" group-title="🇵🇾 PARAGUAY 2",C9N
+http://181.78.27.128:12543/play/a021/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/718/CH_LOGO/60/40/0/0/358638080777.png" group-title=" PACK PREMIUM UNIVERSAL Y HBO", STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
