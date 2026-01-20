@@ -1304,18 +1304,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd?|r
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd?|referer=https://web.app.flow.com.py/|origin=https://web.app.flow.com.py
 
-#EXTINF:-1 tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fe574a402f54.72616248.png" group-title="FUTBOL PARAGUAY",Futbol 🇵🇾 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-logo="https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fe576636dc49.64302662.png" group-title="FUTBOL PARAGUAY",Futbol 🇵🇾 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=1
-#EXTVLCOPT:http-origin=https://www.tigosports.com.py
-#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-#EXTVLCOPT:http-user-agent=FireFox
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 
 
