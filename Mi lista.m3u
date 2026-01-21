@@ -1304,6 +1304,171 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd?|r
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_C/Venus.mpd?|referer=https://web.app.flow.com.py/|origin=https://web.app.flow.com.py
 
+#EXTINF:-1 tvg-logo="https://rockandpop.com.py/wp-content/uploads/2020/06/Logo-Rock-and-Pop-95.5-FM.png" group-title="RADIOS DE PARAGUAY",Rock and Pop 95.5 FM
+https://stream.zeno.fm/rockandpoppy
+
+#EXTINF:-1 tvg-logo="https://py.radiodisney.com/logo.png" group-title="RADIOS DE PARAGUAY",Radio Disney Paraguay 96.5 FM
+https://stream.zeno.fm/radio-disney-paraguay-fm-96-5
+
+#EXTINF:-1 tvg-logo="https://popularfm.com.py/logo.png" group-title="RADIOS DE PARAGUAY",Popular FM 103.1 FM
+https://stream.zeno.fm/popularfm1031py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Latina FM 97.1 FM
+https://stream.zeno.fm/latinafm971py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Vibras 92.7 FM
+https://stream.zeno.fm/vibras927py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Tropicalia 93.9 FM
+https://stream.zeno.fm/tropicalia-93-9fm
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Amor 95.9 FM
+https://stream.zeno.fm/amor959py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",ABC Cardinal 730 AM
+http://sc.abc.com.py:8000/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Monumental 1080 AM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b?aid=62d818a924cf7908229cd029
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Farra 101.3 FM
+http://rfs1.farra.com.py:8000/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Nacional 920 AM
+http://audio.radionacional.gov.py:8085/920
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Nacional 95.1 FM
+http://audio2.radionacional.gov.py:8084/951fm
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Ñandutí 1020 AM
+http://audio.nanduti.com.py:8000/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Venus 105.1 FM
+https://stream.zeno.fm/venus1051py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Corazón FM
+https://stream.zeno.fm/corazonfmpy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Exclusiva 103.7 FM
+https://stream.zeno.fm/exclusiva1037py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Emisoras Paraguay 106.1 FM
+https://stream.zeno.fm/emisorasparaguay1061
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Yacyretá 98.5 FM
+http://192.240.114.58/movyacyreta/movyacyreta.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Cáritas AM 680
+http://200.1.201.244:8000/680AM
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Uno 650 AM
+https://rus1.radiouno.com.py:9433/stream
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Estación 40 FM
+https://stream.zeno.fm/estacion40py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Evolución FM
+https://stream.zeno.fm/evolucionfmpy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Fama FM
+https://stream.zeno.fm/famafmpy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Fiesta FM
+https://stream.zeno.fm/fiestafmpy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Master Radio
+https://stream.zeno.fm/masterradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Megaestación 95 FM
+https://stream.zeno.fm/megaestacion95py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Metro Radio
+https://stream.zeno.fm/metroradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Oasis Radio
+https://stream.zeno.fm/oasisradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Plus Radio
+https://stream.zeno.fm/plusradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Primereña Radio
+https://stream.zeno.fm/primerenaradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Suceso Radio
+https://stream.zeno.fm/sucesoradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Transamérica Radio
+https://stream.zeno.fm/transamericaradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Urbana Radio
+https://stream.zeno.fm/urbanaradiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Nacional Pilar 700 AM
+http://audio.radionacional.gov.py:8085/700am
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Nacional San Pedro 105.5 FM
+http://audio.radionacional.gov.py:8084/sanpedro
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Nuevo Tiempo PY
+https://stream.live.novotempo.com/radio/smil:rntAsuncionPY.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio María Paraguay
+https://stream.zeno.fm/radiomariapy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Progreso (Santa Rita)
+https://stream.zeno.fm/radioprogreso883py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio del Este 94.3 FM (Ciudad del Este)
+https://stream.zeno.fm/deleste943py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Guairá (Villarrica)
+https://stream.zeno.fm/radioguairapy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Corpus (Ciudad del Este)
+https://stream.zeno.fm/radiocorpuspy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Okarapoty 100.5 FM
+https://stream.zeno.fm/okarapoty1005
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Top Milenium FM 91.5
+https://stream.zeno.fm/topmilenium915py
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Exitós de Ayer
+https://stream.zeno.fm/exitosdeayerpy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Purahei PY
+https://stream.zeno.fm/puraheipy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Mercosur En Vivo
+https://stream.zeno.fm/mercosurenvivopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Cristiana Paraguay
+https://stream.zeno.fm/cristianaparaguay
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Koeju FM 93.3 Lambaré
+https://stream.zeno.fm/koejufm933
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Cadena Dance Paraguay
+https://stream.zeno.fm/cadenadancepy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Box Paraguay
+https://stream.zeno.fm/radioboxpy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",CM Music Paraguay
+https://stream.zeno.fm/cmmusicpy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Paraguay es mi pais
+https://stream.zeno.fm/paraguayesmipais
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",RPY La radio paraguaya
+https://stream.zeno.fm/rpyla radiopy
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio Casa Paraguaya
+https://stream.zeno.fm/casaparaguaya
+
+#EXTINF:-1 tvg-logo="https://github.com/luisoddone/virus/blob/main/RADIO%20PY.png?raw=true" group-title="RADIOS DE PARAGUAY",Radio TV Polca Paraguaya
+https://stream.zeno.fm/polcaparaguaya
+
 
 
 
